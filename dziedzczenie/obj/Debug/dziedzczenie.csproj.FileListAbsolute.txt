@@ -6,3 +6,6 @@ C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.Prope
 C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.csproj.GenerateResource.Cache
 C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.exe
 C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.pdb
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.ParentFormcs.resources
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.start.resources
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.InheritForm.resources

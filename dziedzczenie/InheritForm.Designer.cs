@@ -1,6 +1,6 @@
 ﻿namespace dziedzczenie
 {
-    partial class ParentFormcs
+    partial class InheritForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,32 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.txtText = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // button1
+            // txtText
             // 
-            this.button1.Location = new System.Drawing.Point(63, 156);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.txtText.Location = new System.Drawing.Point(33, 46);
+            this.txtText.Name = "txtText";
+            this.txtText.Size = new System.Drawing.Size(114, 20);
+            this.txtText.TabIndex = 2;
             // 
-            // ParentFormcs
+            // InheritForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(318, 241);
-            this.Controls.Add(this.button1);
-            this.Name = "ParentFormcs";
-            this.Text = "ParentFormcs";
+            this.ClientSize = new System.Drawing.Size(343, 202);
+            this.Controls.Add(this.txtText);
+            this.Name = "InheritForm";
+            this.Text = "InheritForm";
+            this.Controls.SetChildIndex(this.txtText, 0);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
-        private System.Windows.Forms.Button button1;
+
+        private System.Windows.Forms.TextBox txtText;
     }
 }

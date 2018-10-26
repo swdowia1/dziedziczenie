@@ -16,7 +16,7 @@ namespace dziedzczenie
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ParentFormcs());
+            Application.Run(new start());
         }
     }
 }

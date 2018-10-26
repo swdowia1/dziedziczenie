@@ -16,5 +16,26 @@ namespace dziedzczenie
         {
             InitializeComponent();
         }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ParentFormcs Cancel");
+        }
+        protected virtual void ResetSettings()
+        {
+            MessageBox.Show("Test");
+            // Code logic in derived Form
+        }
+
+        private void btnOk_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ParentFormcs ok");
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ResetSettings();
+        }
     }
 }
