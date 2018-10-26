@@ -18,6 +18,8 @@ namespace dziedzczenie
 
         protected override void ResetSettings()
         {
+            base.ResetSettings();
+            WriteImmediate("wywołanie dziceka");
             MessageBox.Show("z inherita");
             this.txtText.Text = DateTime.Now.ToString("HH mm:ss");
 
