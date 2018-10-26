@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace dziedzczenie
 {
-    public partial class Form1 : Form
+    public partial class ParentFormcs : Form
     {
-        public Form1()
+        public ParentFormcs()
         {
             InitializeComponent();
         }

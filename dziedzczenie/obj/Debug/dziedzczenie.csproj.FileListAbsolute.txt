@@ -1,1 +1,8 @@
 C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\bin\Debug\dziedzczenie.exe.config
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\bin\Debug\dziedzczenie.exe
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\bin\Debug\dziedzczenie.pdb
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.csprojResolveAssemblyReference.cache
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.Properties.Resources.resources
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.csproj.GenerateResource.Cache
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.exe
+C:\dyskD\wywal\projektySW\dziedzczenie\dziedzczenie\obj\Debug\dziedzczenie.pdb
