@@ -1,0 +1,3 @@
+# dziedziczenie
+
+Dziedziczenie formatek winfom
